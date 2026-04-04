@@ -1,12 +1,12 @@
 INSERT INTO Category VALUES
-(1, 'Foosball Balls'),
-(2, 'Accessories'),
-(3, 'Kits');
+(1, 'Wraps'),
+(2, 'Sides'),
+(3, 'Drinks');
 
 INSERT INTO Product VALUES
-(1, 'Deluxe Ball Kit', 'High-quality foosball balls set', 19.99, 3),
-(2, 'Pro Foosball Ball', 'Professional grade ball', 5.99, 1),
-(3, 'Foosball Handle Grip', 'Comfortable grip', 7.99, 2);
+(1, 'Chicken Shawarma', 'Grilled chicken wrap', 9.99, 1),
+(2, 'Beef Shawarma', 'Seasoned beef wrap', 10.99, 1),
+(3, 'Fries', 'Crispy fries', 3.99, 2);
 
 INSERT INTO Product_Image VALUES
 (1, 1, 'img1.jpg'),
