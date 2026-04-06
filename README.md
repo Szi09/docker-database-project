@@ -1,5 +1,4 @@
-# docker-database-project
-https://shivaprogramming.com/IS436/content/deliverable/deliverable3.html
+# Database Setup Instructions
 
 ## 1. Start the Database
 Run the following command in your terminal from the project directory:
